@@ -3,7 +3,7 @@ function getVideo() {
 }
 
 function play() {
-    var video = getVideo();
+    var video = getVideo(); 
     video.play();
 }
 function pause() {
